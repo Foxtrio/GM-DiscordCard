@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GMDiscordCard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GMDiscordCard",
+  "parent":{
+    "name":"GM-DiscordCard",
+    "path":"folders/GM-DiscordCard.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

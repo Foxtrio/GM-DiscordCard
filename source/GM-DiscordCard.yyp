@@ -1,0 +1,36 @@
+{
+  "$GMProject":"",
+  "%Name":"GM-DiscordCard",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"GM-DiscordCard","folderPath":"folders/GM-DiscordCard.yy","name":"GM-DiscordCard","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.8.1.171",
+  },
+  "name":"GM-DiscordCard",
+  "resources":[
+    {"id":{"name":"GMDiscordExample","path":"objects/GMDiscordExample/GMDiscordExample.yy",},},
+    {"id":{"name":"ExampleRoom","path":"rooms/ExampleRoom/ExampleRoom.yy",},},
+    {"id":{"name":"GMDiscordCard","path":"scripts/GMDiscordCard/GMDiscordCard.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"ExampleRoom","path":"rooms/ExampleRoom/ExampleRoom.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
